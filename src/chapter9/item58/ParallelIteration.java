@@ -37,6 +37,8 @@ public class ParallelIteration {
 
             System.out.println(element + ": " + description);
         }
+
+        System.out.println(1.00 - 9 * 0.10);
     }
 
 }
